@@ -1,0 +1,9 @@
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\SearchAlgorithmsLib\bin\Debug\SearchAlgorithmsLib.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\SearchAlgorithmsLib\bin\Debug\SearchAlgorithmsLib.pdb
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\SearchAlgorithmsLib\bin\Debug\Priority Queue.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\SearchAlgorithmsLib\bin\Debug\Priority Queue.pdb
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\SearchAlgorithmsLib\bin\Debug\Priority Queue.xml
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.pdb
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\SearchAlgorithmsLib\bin\Debug\SearchAlgorithmsLib.dll.config
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.csprojResolveAssemblyReference.cache
