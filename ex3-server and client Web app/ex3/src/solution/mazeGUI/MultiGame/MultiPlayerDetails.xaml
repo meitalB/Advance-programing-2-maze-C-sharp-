@@ -1,0 +1,29 @@
+﻿<Window x:Class="MazeGUI.MultiGame.MultiPlayerDetails"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MazeGUI.Controls"
+        mc:Ignorable="d"
+        Title="MultiPlayerDetails" Height="300" Width="300">
+    
+    <Border Padding="10">
+        <Grid Background="White">
+            <StackPanel>
+                <TextBlock Text="Multi Player" HorizontalAlignment="Center" FontWeight="Black" FontSize="30" />
+                <Grid Margin="0 0 0 10">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2*"/>
+                        <ColumnDefinition Width="5*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="List of games:"/>
+                    <ComboBox x:Name="GamesList" Grid.Column="1" ItemsSource="{Binding GamesList}"/>
+                </Grid>
+                <Button x:Name="btnJoin" Content="Join Game" Width="80" FontSize="15" Click="btnJoin_Click"/>
+                <Controls:MazeDetails x:Name="MazeDetails" DefaultMazeCols="{Binding MazeCols}" DefaultMazeRows="{Binding MazeRows}" Padding="10"/>
+                <Button x:Name="btnStart"  Content="Start Game" Width="80" FontSize="15" Click="btnStart_Click"/>
+                <!--" TextBlock x:Name="WaitingText" Text="Waiting for a player to join" Visibility="Hidden"/-->
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>

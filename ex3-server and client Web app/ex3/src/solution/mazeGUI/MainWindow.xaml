@@ -1,0 +1,31 @@
+﻿<Window x:Class="MazeGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainManu" Height="300" Width="300">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/MazeBackground.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <TextBlock Text="The Maze" HorizontalAlignment="Center" FontWeight="Black" FontSize="40" Padding="10"/>
+
+        <StackPanel Grid.Row="1">
+            <Grid Margin="20">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Button x:Name="btnSingle" Content="Single player" Grid.Row="0" Margin="0 0 0 10" Click="btnSingle_Click"/>
+                <Button x:Name="btnMulti" Content="Multi player" Grid.Row="1" Click="btnMulti_Click" />
+                <Button x:Name="btnSettings" Content="Settings" Grid.Row="2" Margin="0 10 0 0" Click="btnSettings_Click"/>
+            </Grid>
+        </StackPanel>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+    </Grid>
+</Window>

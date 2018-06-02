@@ -1,0 +1,31 @@
+﻿<Window x:Class="MazeGUI.MultiGame.MultiPlayer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MazeGUI.Controls"
+        mc:Ignorable="d"
+        Title="{Binding MazeName}" Height="300" Width="300" KeyDown="Window_KeyDown" Closed="closeWin" >
+    <Grid Background="Blue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="btnMainMenu" Content="Back to the main menu" Grid.ColumnSpan="2" Click="btnMainMenu_Click"/>
+        <TextBlock Text="My board" Margin="0 0 3 0" Grid.Row="1"/>
+        <TextBlock Text="Other player's board" Margin="3 0 0 0" Grid.Row="1" Grid.Column="1"/>
+        <Controls:MazeBoard x:Name="myBoard" PlayerImageFile="simpson.png" HorizontalAlignment="Stretch" 
+                            VerticalAlignment="Stretch" Margin="0 0 3 0" Rows="{Binding MazeRows}"
+                            Cols="{Binding MazeCols}" Maze="{Binding MazeToString}" InitialPos="{Binding InitialPos}" 
+                            GoalPos="{Binding GoalPos}" PlayerPos="{Binding PlayerPos}" Grid.Row="2"/>
+        <Controls:MazeBoard x:Name="opponentBoard" PlayerImageFile="monster.jpg" Margin="3 0 0 0" 
+                            HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Rows="{Binding MazeRows}" 
+                            Cols="{Binding MazeCols}" Maze="{Binding MazeToString}" Grid.Row="2" Grid.Column="1" 
+                            InitialPos="{Binding InitialPos}" GoalPos="{Binding GoalPos}" PlayerPos="{Binding OpponentPos}"/>
+    </Grid>
+</Window>
