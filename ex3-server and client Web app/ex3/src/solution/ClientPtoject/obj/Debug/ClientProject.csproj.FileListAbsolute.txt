@@ -1,0 +1,13 @@
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ClientPtoject\bin\Debug\ClientProject.exe.config
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ClientPtoject\bin\Debug\ClientProject.exe
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ClientPtoject\bin\Debug\ClientProject.pdb
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ClientPtoject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ClientPtoject\bin\Debug\Priority Queue.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ClientPtoject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ClientPtoject\bin\Debug\Priority Queue.pdb
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ClientPtoject\bin\Debug\Priority Queue.xml
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ClientPtoject\obj\Debug\ClientProject.csprojResolveAssemblyReference.cache
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ClientPtoject\obj\Debug\ClientProject.exe
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ClientPtoject\obj\Debug\ClientProject.pdb
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ClientPtoject\bin\Debug\ClientLib.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ClientPtoject\bin\Debug\ClientLib.pdb
