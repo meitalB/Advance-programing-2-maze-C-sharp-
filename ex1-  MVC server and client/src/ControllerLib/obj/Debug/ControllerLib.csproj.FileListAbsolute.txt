@@ -1,0 +1,20 @@
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\bin\Debug\ControllerLib.dll.config
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\bin\Debug\ControllerLib.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\bin\Debug\ControllerLib.pdb
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\bin\Debug\MazeGeneratorLib.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\bin\Debug\MazeLib.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\bin\Debug\ModelLib.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\bin\Debug\Priority Queue.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\bin\Debug\SearchAlgorithmsLib.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\bin\Debug\ModelLib.pdb
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\bin\Debug\ModelLib.dll.config
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\bin\Debug\SearchAlgorithmsLib.pdb
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\bin\Debug\Priority Queue.pdb
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\bin\Debug\Priority Queue.xml
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\obj\Debug\ControllerLib.csprojResolveAssemblyReference.cache
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\obj\Debug\ControllerLib.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\obj\Debug\ControllerLib.pdb
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\bin\Debug\ClientLib.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\ControllerLib\bin\Debug\ClientLib.pdb
