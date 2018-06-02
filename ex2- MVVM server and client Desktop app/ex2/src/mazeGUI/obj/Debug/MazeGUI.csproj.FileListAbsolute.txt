@@ -1,0 +1,47 @@
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\MazeGUI.csprojResolveAssemblyReference.cache
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\MainWindow.g.cs
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\App.g.cs
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\MazeGUI_MarkupCompile.cache
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\MazeGUI_MarkupCompile.lref
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\bin\Debug\MazeGUI.exe.config
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\bin\Debug\MazeGUI.exe
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\bin\Debug\MazeGUI.pdb
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\MainWindow.baml
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\MazeGUI.g.resources
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\MazeGUI.Properties.Resources.resources
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\MazeGUI.csproj.GenerateResource.Cache
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\MazeGUI.exe
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\MazeGUI.pdb
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\Controls\MazeBoard.baml
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\Controls\MazeBoard.g.cs
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\Controls\MazeDetails.g.cs
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\Controls\MazeDetails.baml
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\SingleGame\SinglePlayer.g.cs
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\bin\Debug\ClientLib.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\bin\Debug\ClientLib.pdb
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\SingleGame\SinglePlayer.baml
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\Settings\Settings.g.cs
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\Settings\Settings.baml
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\MultiGame\MultiPlayer.g.cs
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\MultiGame\MultiPlayerDetails.g.cs
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\SingleGame\SinglePlayerDetails.g.cs
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\MultiGame\MultiPlayer.baml
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\MultiGame\MultiPlayerDetails.baml
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\SingleGame\SinglePlayerDetails.baml
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\bin\Debug\MazeLib.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\bin\Debug\ModelLib.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\bin\Debug\SearchAlgorithmsLib.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\bin\Debug\MazeGeneratorLib.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\bin\Debug\Priority Queue.dll
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\bin\Debug\ModelLib.pdb
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\bin\Debug\ModelLib.dll.config
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\bin\Debug\SearchAlgorithmsLib.pdb
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\bin\Debug\Priority Queue.pdb
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\bin\Debug\Priority Queue.xml
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\PopMessage.g.cs
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\Controls\PopMassage.g.cs
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\PopMessage.baml
+C:\Users\simon\Source\Repos\Maze-project\SearchAlgorithmsLib\MazeGUI\obj\Debug\Controls\PopMassage.baml
