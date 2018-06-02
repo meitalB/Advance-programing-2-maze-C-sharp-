@@ -1,0 +1,30 @@
+﻿<Window x:Class="MazeGUI.SingleGame.SinglePlayer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MazeGUI.Controls"
+        mc:Ignorable="d"
+        Title="{Binding MazeName}"  Height="350" Width="300" KeyDown="Window_KeyDown">
+    <Border Padding="10">
+        <!-- Buttons -->
+        <StackPanel x:Name="StackPanel">
+            <Grid x:Name="MyGrid">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Button x:Name="btnReset" Grid.Column="0" Content="Reset game" Margin="0 0 10 0" Click="btnReset_Click"/>
+                <Button x:Name="btnSolve" Grid.Column="1" Content="Solve maze" Click="btnSolve_Click" />
+                <Button x:Name="btnMenu" Grid.Column="2" Content="Main menu" Margin="10 0 0 0" Click="btnMenu_Click"/>
+                <Controls:MazeBoard x:Name="mazeBoard" Rows="{Binding MazeRows}" Cols="{Binding MazeCols}" Maze="{Binding MazeToString}" InitialPos="{Binding InitialPos}" GoalPos="{Binding GoalPos}" PlayerPos="{Binding PlayerPos}"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Row="1" Grid.ColumnSpan="3"/>
+            </Grid>
+        </StackPanel>
+    </Border>
+</Window>
+  
